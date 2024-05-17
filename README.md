@@ -1,2 +1,2 @@
 # alu-web-development
-rRepository for Alu web development
+Repository for Alu web development
