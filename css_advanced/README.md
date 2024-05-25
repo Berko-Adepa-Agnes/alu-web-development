@@ -1,3 +1,14 @@
-# Css_Advanced Styling
-![css_adv_img](https://github.com/Berko-Adepa-Agnes/alu-web-development/assets/107848793/92afa9cd-2851-4e07-99cf-faf570791dc6)
+# HTML, advanced
 
+![Project Image](https://github.com/Elhameed/alu-web-development/blob/main/html_advanced/figma.jpg)
+
+## Description
+This project enhances the webpage implemented in the previous phase by adding Cascading Style Sheets (CSS) to provide visual styling and layout.
+
+## Project objectives
+- Implement visual styling and layout for the webpage using CSS.
+- add colors, fonts, and visual effects.
+
+## Technologies used
+- HTML
+- CSS
