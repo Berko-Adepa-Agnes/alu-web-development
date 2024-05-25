@@ -1,4 +1,4 @@
-# HTML, advanced
+# Css advanced
 
 ![Project Image](https://github.com/Elhameed/alu-web-development/blob/main/html_advanced/figma.jpg)
 
